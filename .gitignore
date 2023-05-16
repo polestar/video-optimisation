@@ -1,0 +1,9 @@
+# Ignore macOS dotfiles
+.DS_Store
+
+# Ignore pnpm debug logs
+pnpm-debug.log
+pnpm-debug.log.*
+
+# Ignore IDE-specific files
+.vscode/
