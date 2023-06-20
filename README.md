@@ -9,12 +9,16 @@ These are all the specificatoins and prests for videos used on Dotcom.
 1. [FullScreenModal](/docs/domains/dotcom/sections/FullScreenModal/README.md)
 2. [HeroHomeCampaign](/docs/domains/dotcom/sections/HeroHomeCampaign/README.md)
 3. [SectionFullWidthVideo](/docs/domains/dotcom/sections/SectionFullWidthVideo/README.md)
+   1. [Default](/docs/domains/dotcom/sections/SectionFullWidthVideo/README.md#default)
+   2. [Compact](/docs/domains/dotcom/sections/SectionFullWidthVideo/README.md#compact)
+   3. [Expandable](/docs/domains/dotcom/sections/SectionFullWidthVideo/README.md#expandable)
+   4. [Cinematic](/docs/domains/dotcom/sections/SectionFullWidthVideo/README.md#cinematic)
 4. [SectionOneVideo](/docs/domains/dotcom/sections/SectionOneVideo/README.md)
 5. [SectionMediaGallery](/docs/domains/dotcom/sections/SectionMediaGallery/README.md)
 6. [SectionOneVideo](/docs/domains/dotcom/sections/SectionOneVideo/README.md)
 7. [SectionSplitScreenCarousel](/docs/domains/dotcom/sections/SectionSplitScreenCarousel/README.md)
 8. [SectionSplitScreenCarouselSpecial](/docs/domains/dotcom/sections/SectionSplitScreenCarouselSpecial/README.md)
-9. [SectionVideoCards](/docs/domains/dotcom/sections/SectionVideoCards/README.md)
+9.  [SectionVideoCards](/docs/domains/dotcom/sections/SectionVideoCards/README.md)
 10. [SectionVideoContentOverlay](/docs/domains/dotcom/sections/SectionVideoContentOverlay/README.md)
 
 ## Mobile App
