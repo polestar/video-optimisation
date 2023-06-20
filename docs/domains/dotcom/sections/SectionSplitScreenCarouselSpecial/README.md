@@ -1,25 +1,17 @@
 # SectionSplitScreenCarouselSpecial
 
-![section image](./image-default.png)
-
+![section image](./split-screen-carousel-special.jpg)
 ---
-<!-- SectionSplitScreenCarouselSpecial Storybook: http://localhost:6006/?path=/story/organisms-sectionsplitscreencarouselspecial--default-story -->
+<!--
+SectionSplitScreenCarouselSpecial
+Storybook: http://localhost:6006/?path=/story/organisms-sectionsplitscreencarouselspecial--default-story
+-->
 
-### Resolution and aspect ratio per device
+This section is used on the Feature pages where there is a video and image that are divided into two equally sized blocks.
 
-| Device  | Aspect ratio | Width  | Height |
-| ------- | ------------ | ------ | ------ |
-| Desktop | 4:5          | 804    | 1005   |
-| Tablet  | 4:5          | 420    | 525    |
-| Mobile  | 4:5          | 680    | 850    |
 
---- 
-# When used on specificatons page
-![section image](./image-default.png)
-
-| Device  | Aspect ratio | Width  | Height |
-| ------- | ------------ | ------ | ------ |
-| Desktop | 4:5          | 600    | 750    |
-| Tablet  | 4:5          | 436    | 545    |
-| Mobile  | 4:5          | 680    | 850    |
-
+| Device  | Aspect ratio | Size       | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
+| ------- | ------------ | ---------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
+| Desktop | 4:5          | 600x750px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
+| Tablet  | 4:5          | 436x545px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
+| Mobile  | 1:1          | 680x680px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |

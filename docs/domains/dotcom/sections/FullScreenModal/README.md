@@ -1,14 +1,16 @@
 # FullScreenModal
 
+At the moment this componet only supports a single video.
+With this in mind we've opted for a resoltion of  `1920x1080px`, since it gives us the best balance in quailty and performance for the different devices.
+
 ![section image](./image.png)
-
 ---
-<!-- FullScreenModal Storybook: http://localhost:6006/?path=/story/organisms-fullscreenmodal--default -->
+<!--
+FullScreenModal
+Storybook: http://localhost:6006/?path=/story/organisms-fullscreenmodal--default
+-->
 
-### Resolution and aspect ratio per device
 
-| Device  | Aspect ratio | Width  | Height | Audio |
-|---------|--------------|--------|--------|-------|
-| Desktop | 16:9         | 1920   | 1080   | Yes   |
-| Tablet  | 4:5          | 960    | 540    | Yes   |
-| Mobile  | 9:16         | 768    | 432    | Yes   |
+| Device  | Aspect ratio | Size        | File size threshold                      | Duration                    | Format | Autoplay | Audio     | Preset        |
+| ------- | ------------ | ----------- | ---------------------------------------- | --------------------------- | ------ | -------- | --------- | ------------- |
+| Desktop | 16:9         | 1920x1080px | No more than 15MB per minute of playback | Preferably under 10 seconds | .mp4   | Yes      | Optional  | [Download](#) |
