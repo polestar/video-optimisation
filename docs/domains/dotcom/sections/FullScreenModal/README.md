@@ -1,6 +1,6 @@
 # FullScreenModal
 
-At the moment this componet only supports a single video.
+At the moment this component only supports a single video.
 With this in mind we've opted for a resoltion of  `1920x1080px`, since it gives us the best balance in quailty and performance for the different devices.
 
 ![section image](./image.png)
