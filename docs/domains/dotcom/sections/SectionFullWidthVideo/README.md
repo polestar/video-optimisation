@@ -1,6 +1,6 @@
 # SectionFullWidth
 
-The purpose of a Section Full Widht is to engage and inspire users. It serves as a way to showcase and highlight the key aspects, features, or capabilities in a visually compelling and engaging manner.
+The purpose of a Section Full Width is to engage and inspire users. It serves as a way to showcase and highlight the key aspects, features, or capabilities in a visually compelling and engaging manner.
 
 A Section Full Width can either be used with an Autoplay video or a Video player.
 
@@ -21,7 +21,7 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--d
 | Mobile  | 16:9         | 720x405px    | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
 
 
-### Video Player (with audio)
+### Video Player (audio optional)
 
 | Device  | Aspect ratio | Size         | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
 | ------- | ------------ | ------------ | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
@@ -48,7 +48,7 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--c
 | Mobile  | 4:5          | 680x850px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
 
 
-### Video Player (with audio)
+### Video Player (audio optional)
 
 | Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
 | ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
@@ -73,7 +73,7 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--e
 | Mobile  | 4:5          | 960x1200px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
 
 
-### Video Player (with audio)
+### Video Player (audio optional)
 
 | Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
 | ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
@@ -93,6 +93,10 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--e
 
 ## Cinematic
 
+The purpose of a *Section Cinematic Video* is to engage and inspire users. It serves as a way to showcase and highlight the key aspects, features, or capabilities in a visually compelling and engaging manner.
+
+Image quality may be prioritized over file size, but it's still important to optimize as much as possible.
+
 <!--
 SectionFullWidthVideo - Cinematic
 Storybook: http://localhost:6007/?path=/story/organisms-sectionfullwidthvideo--cinematic
@@ -110,7 +114,7 @@ Storybook: http://localhost:6007/?path=/story/organisms-sectionfullwidthvideo--c
 | Mobile  | 4:5          | 720x900px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
 
 
-### Video Player (with audio)
+### Video Player (audio optional)
 
 When the cinematic video is displayed as an video player (i.e. not atutoplay) image quality may be prioritized over file size. But it's still important to optimize as much as possible.
 
