@@ -1,4 +1,8 @@
-# HeroHomeCampaign
+# SectionVideoContentOverlay
+
+Having the smallest file size possible is recommended. Experiment with different bitrate values and consider shortening the video if a desirable image quality cannot be attained within the file size threshold.
+
+Ensure that the copy passes the accessibility tests by adjusting the video to be either dark or light enough in the specific areas.
 
 ![section image](section-video-content-overlay.jpg)
 
@@ -8,10 +12,6 @@ SectionVideoContentOverlay
 Storybook:
 http://localhost:6007/?path=/docs/organisms-sectionvideocontentoverlay--default-story
 -->
-
-Having the smallest file size possible is recommended. Experiment with different bitrate values and consider shortening the video if a desirable image quality cannot be attained within the file size threshold.
-
-Ensure that the copy passes the accessibility tests by adjusting the video to be either dark or light enough in the specific areas.
 
 ![Section Video Content Overlay](section-video-content-overlay.jpg)
 
