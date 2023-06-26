@@ -1,5 +1,7 @@
 # SectionSplitScreenCarousel
 
+This section is used on the Feature pages where there is a video/image along with a copy block that are divided into two equally sized blocks.
+
 ![Section Video Content Overlay](./split-screen-carousel.jpg)
 
 ---
@@ -8,8 +10,6 @@ SectionVideoContentOverlay
 Storybook:
 http://localhost:6007/?path=/story/organisms-sectionsplitscreen--default-story
 -->
-
-This section is used on the Feature pages where there is a video/image along with a copy block that are divided into two equally sized blocks.
 
 | Device  | Aspect ratio | Size       | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
 | ------- | ------------ | ---------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
