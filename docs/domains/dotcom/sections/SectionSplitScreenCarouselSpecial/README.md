@@ -1,13 +1,13 @@
 # SectionSplitScreenCarouselSpecial
 
+This section is used on the Feature pages where there is a video and image that are divided into two equally sized blocks.
+
 ![section image](./split-screen-carousel-special.jpg)
 ---
 <!--
 SectionSplitScreenCarouselSpecial
 Storybook: http://localhost:6006/?path=/story/organisms-sectionsplitscreencarouselspecial--default-story
 -->
-
-This section is used on the Feature pages where there is a video and image that are divided into two equally sized blocks.
 
 
 | Device  | Aspect ratio | Size       | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
