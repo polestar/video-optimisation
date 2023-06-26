@@ -4,7 +4,13 @@
 Different apps/domians have different video requirements on Polestar. 
 ## Dotcom 
 
-These are all the specificatoins and prests for videos used on Dotcom.
+## Types
+
+!! Should we add a general README file for the different video types?
+
+## Sections
+
+These are all the specifications and presets for videos used on Dotcom.
 
 1. [FullScreenModal](/docs/domains/dotcom/sections/FullScreenModal/README.md)
 2. [HeroHomeCampaign](/docs/domains/dotcom/sections/HeroHomeCampaign/README.md)
@@ -20,6 +26,28 @@ These are all the specificatoins and prests for videos used on Dotcom.
 ## Mobile App
 
 These are presets for videos used in the mobile app.
+
+## PDP Image sequence
+
+!! Is this the right place for the introduction of the Image sequence with a link to the README file?
+
+## Poster image
+
+!! The description below could live on it's own README file
+
+The poster image is used as the initial frame of a video to visually represent its content, attract viewers, and provide context before the video starts playing.
+
+<u>Visual representation:</u> The poster image should visually represent the first frame of the video. 
+
+<u>Resolution:</u> Ensure that the resolution of the poster image matches that of the video. Set the dimensions to match the width and height of the video.
+
+<u>Format:</u> Save the image in the PNG format.
+
+<u>Updating poster image:</u> If the video content changes over time please update the poster image to reflect the latest content accurately.
+
+## Naming convention
+
+!! Is this the right place for the introduction of the Naming convention with a link to the README file?
 
 ## MISC
 
