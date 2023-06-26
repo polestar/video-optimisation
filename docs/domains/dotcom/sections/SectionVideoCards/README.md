@@ -10,8 +10,8 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionvideocards--defau
 
 ### Resolution and aspect ratio per device
 
-At the moment this componet only supports a single video.
-With this in mind we've opted for a resoltion of  `864x486px`, since it gives us the best balance in quailty and performance for the different devices.
+At the moment this component only supports a single video for all devices.
+With this in mind we've opted for a resoltion of `864x486px`, since it gives us the best balance in quailty and performance for the different devices.
 
 | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
 | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
