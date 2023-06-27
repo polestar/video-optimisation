@@ -13,7 +13,7 @@ Storybook:
 http://localhost:6007/?path=/docs/organisms-sectionvideocontentoverlay--default-story
 -->
 
-![Section Video Content Overlay](section-video-content-overlay.jpg)
+![Section Video Content Overlay](section-video-content-overlay.png)
 
 | Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
 | ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
