@@ -100,7 +100,7 @@ Storybook: http://localhost:6007/?path=/story/organisms-sectionfullwidthvideo--c
 
 ### Autoplay (without audio)
 
-![default image](./image-cinematic-autoplay.jpg)
+![default image](./image-cinematic-autoplay.png)
 
 
 | Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
@@ -114,7 +114,7 @@ Storybook: http://localhost:6007/?path=/story/organisms-sectionfullwidthvideo--c
 
 When the cinematic video is displayed as an video player (i.e. not atutoplay) image quality may be prioritized over file size. But it's still important to optimize as much as possible.
 
-![default image](./image-cinematic-video-player.jpg)
+![default image](./image-cinematic-video.png)
 
 
 | Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
