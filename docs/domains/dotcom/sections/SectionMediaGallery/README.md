@@ -6,8 +6,8 @@ Currenly only appears on the PDP feature pages.
 
 #### Autoplay video
 
-![Section Media Gallery - Autoplay video](section-media-gallery-autoplay.jpg)
----
+![Section Media Gallery - Autoplay video](section-media-gallery-autoplay.png)
+
 <!--
 SectionMediaGallery
 Storybook: http://localhost:6006/?path=/story/organisms-sectionmediagallery--default-story
@@ -21,7 +21,7 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionmediagallery--def
 
 #### Video player
 
-![Section Media Gallery - Video player](section-media-gallery-video-player.jpg)
+![Section Media Gallery - Video player](section-media-gallery-video.png)
 
 | Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
 | ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
