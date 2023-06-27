@@ -2,7 +2,7 @@
 
 This section is used on the Feature pages where there is a video and image that are divided into two equally sized blocks.
 
-![section image](./split-screen-carousel-special.jpg)
+![section image](./split-screen-carousel-special.png)
 ---
 <!--
 SectionSplitScreenCarouselSpecial
