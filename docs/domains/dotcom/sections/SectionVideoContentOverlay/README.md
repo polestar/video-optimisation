@@ -4,16 +4,13 @@ Having the smallest file size possible is recommended. Experiment with different
 
 Ensure that the copy passes the accessibility tests by adjusting the video to be either dark or light enough in the specific areas.
 
-![section image](section-video-content-overlay.jpg)
+![Section Video Content Overlay](section-video-content-overlay.png)
 
----
 <!--
 SectionVideoContentOverlay
 Storybook:
 http://localhost:6007/?path=/docs/organisms-sectionvideocontentoverlay--default-story
 -->
-
-![Section Video Content Overlay](section-video-content-overlay.jpg)
 
 | Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
 | ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
