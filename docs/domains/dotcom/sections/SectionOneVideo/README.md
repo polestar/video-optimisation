@@ -2,8 +2,8 @@
 
 A *Section One Video* can either be used with an [Autoplay video](#autoplay-video) or a [Video player](#video-player).
 
-![Section One Video - Autoplay video](section-one-video-autoplay.jpg)
----
+![Section One Video - Autoplay video](section-one-video-autoplay.png)
+
 <!--
 SectionOneVideo
 Storybook: http://localhost:6006/?path=/story/organisms-sectiononevideo--default
@@ -17,8 +17,8 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectiononevideo--default
 
 #### Video player
 
-![Section One Video - Video player](section-one-video-video.jpg)
----
+![Section One Video - Video player](section-one-video-video.png)
+
 
 | Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
 | ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
