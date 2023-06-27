@@ -2,7 +2,7 @@
 
 This section is used on the Feature pages where there is a video/image along with a copy block that are divided into two equally sized blocks.
 
-![Section Video Content Overlay](./split-screen-carousel.jpg)
+![Section Video Content Overlay](./split-screen-carousel.png)
 
 ---
 <!--
