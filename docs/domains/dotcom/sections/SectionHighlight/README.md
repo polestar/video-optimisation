@@ -8,7 +8,7 @@ Depending on the negative space of the asset, the title can be displayed in one 
 
 Ensure that the copy passes the accessibility tests by adjusting the video to be either dark or light enough in the specific areas.
 
-![Section Highlight](./section-highlight.jpg)
+![Section Highlight](./section-highlight.png)
 ---
 <!--
 ScetionHighlight 
