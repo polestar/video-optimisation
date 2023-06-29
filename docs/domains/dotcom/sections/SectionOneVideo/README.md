@@ -1,5 +1,7 @@
 # SectionOneVideo
 
+### Autoplay
+
 A *Section One Video* can either be used with an [Autoplay video](#autoplay-video) or a [Video player](#video-player).
 
 ![Section One Video - Autoplay video](section-one-video-autoplay.png)

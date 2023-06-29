@@ -4,7 +4,7 @@ A *Section Media Gallery* can either be used with an [Autoplay video](#autoplay-
 
 Currenly only appears on the PDP feature pages.
 
-#### Autoplay video
+#### Autoplay
 
 ![Section Media Gallery - Autoplay video](section-media-gallery-autoplay.png)
 
