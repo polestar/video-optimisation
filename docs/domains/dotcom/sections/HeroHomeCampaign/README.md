@@ -24,9 +24,10 @@ Storybook: http://localhost:6006/?path=/story/organisms-herohomecampaign--defaul
 | ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
 | Desktop | 16:9         | 1920x1080px | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
 | Tablet  | 4:5          | 960x1200px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
-| Mobile  | 9:16         | 768x432px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
+| Mobile  | 9:16         | 774x1376    | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
 
 ---
+
 ### TBD:
 
 > Because this video will scale based on viewport height we should consider adding an additional video for large desktops,
