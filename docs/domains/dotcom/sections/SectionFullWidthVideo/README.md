@@ -22,20 +22,20 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--d
 
 ### Autoplay (without audio)
 
-| Device  | Aspect ratio | Size         | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
-| ------- | ------------ | ------------ | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
-| Desktop | 16:9         | 1920x1080px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
-| Tablet  | 16:9         | 912x513px    | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
-| Mobile  | 16:9         | 720x405px    | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
+| Device  | Aspect ratio | Size         | File size threshold                   | Duration                    | Format | Autoplay | Audio |
+| ------- | ------------ | ------------ | ------------------------------------- | --------------------------- | ------ | -------- | ----- |
+| Desktop | 16:9         | 1920x1080px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
+| Tablet  | 16:9         | 912x513px    | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
+| Mobile  | 16:9         | 720x405px    | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
 
 
 ### Video Player (with audio)
 
-| Device  | Aspect ratio | Size         | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
-| ------- | ------------ | ------------ | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
-| Desktop | 16:9         | 1920x1080px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
-| Tablet  | 16:9         | 912x513px    | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
-| Mobile  | 16:9         | 720x405px    | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
+| Device  | Aspect ratio | Size         | File size threshold                      | Duration | Format | Autoplay | Audio    |
+| ------- | ------------ | ------------ | ---------------------------------------- | -------- | ------ | -------- | -------- |
+| Desktop | 16:9         | 1920x1080px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
+| Tablet  | 16:9         | 912x513px    | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
+| Mobile  | 16:9         | 720x405px    | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
 
 
 ---
@@ -50,18 +50,18 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--c
 
 ### Autoplay (without audio)
 
-| Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
-| ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
-| Desktop | 16:9         | 1056x594px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
-| Mobile  | 4:5          | 680x850px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
+| Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio |
+| ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- |
+| Desktop | 16:9         | 1056x594px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
+| Mobile  | 4:5          | 680x850px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
 
 
 ### Video Player (with audio)
 
-| Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
-| ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
-| Desktop | 16:9         | 1056x594px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
-| Tablet  | 4:5          | 680x850px   | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
+| Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    |
+| ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- |
+| Desktop | 16:9         | 1056x594px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
+| Tablet  | 4:5          | 680x850px   | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
 
 ---
 
@@ -75,18 +75,18 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--e
 
 ### Autoplay (without audio)
 
-| Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
-| ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
-| Desktop | 16:9         | 1925x1080px | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
-| Mobile  | 4:5          | 960x1200px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
+| Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio |
+| ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- |
+| Desktop | 16:9         | 1925x1080px | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
+| Mobile  | 4:5          | 960x1200px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
 
 
 ### Video Player (with audio)
 
-| Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
-| ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
-| Desktop | 16:9         | 1925x1080px | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
-| Tablet  | 4:5          | 960x1200px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
+| Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    |
+| ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- |
+| Desktop | 16:9         | 1925x1080px | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
+| Tablet  | 4:5          | 960x1200px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
 
 
 ---
@@ -111,11 +111,11 @@ Storybook: http://localhost:6007/?path=/story/organisms-sectionfullwidthvideo--c
 ![default image](./image-cinematic-autoplay.png)
 
 
-| Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio | Preset        |
-| ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- | ------------- |
-| Desktop | 21:9         | 1925x825px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
-| Tablet  | 21:9         | 896x348px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
-| Mobile  | 4:5          | 720x900px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    | [Download](#) |
+| Device  | Aspect ratio | Size        | File size threshold                   | Duration                    | Format | Autoplay | Audio |
+| ------- | ------------ | ----------- | ------------------------------------- | --------------------------- | ------ | -------- | ----- |
+| Desktop | 21:9         | 1925x825px  | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
+| Tablet  | 21:9         | 896x348px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
+| Mobile  | 4:5          | 720x900px   | 5-10MB, preferably in the lower range | Preferably under 10 seconds | .mp4   | Yes      | No    |
 
 
 ### Video Player (with audio)
@@ -125,11 +125,11 @@ When the cinematic video is displayed as an video player (i.e. not atutoplay) im
 ![default image](./image-cinematic-video.png)
 
 
-| Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
-| ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
-| Desktop | 21:9         | 1925x825px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
-| Tablet  | 21:9         | 896x348px   | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
-| Mobile  | 4:5          | 720x900px   | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) | 
+| Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    |
+| ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- |
+| Desktop | 21:9         | 1925x825px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
+| Tablet  | 21:9         | 896x348px   | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional |
+| Mobile  | 4:5          | 720x900px   | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | 
 
 
 ## Personal(?)
