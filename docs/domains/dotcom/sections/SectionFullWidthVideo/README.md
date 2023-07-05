@@ -53,7 +53,7 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--c
 | Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
 | ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
 | Desktop | 16:9         | 1056x594px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
-| Mobile  | 4:5          | 680x850px   | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
+| Tablet  | 4:5          | 680x850px   | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
 
 ---
 
@@ -78,7 +78,7 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--e
 | Device  | Aspect ratio | Size        | File size threshold                      | Duration | Format | Autoplay | Audio    | Preset        |
 | ------- | ------------ | ----------- | ---------------------------------------- | -------- | ------ | -------- | -------- | ------------- |
 | Desktop | 16:9         | 1925x1080px | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
-| Mobile  | 4:5          | 960x1200px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
+| Tablet  | 4:5          | 960x1200px  | No more than 15MB per minute of playback | Variable | .mp4   | No       | Optional | [Download](#) |
 
 
 ---
