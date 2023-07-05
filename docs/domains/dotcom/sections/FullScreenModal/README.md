@@ -1,3 +1,11 @@
+> ---
+> 
+> ## 📚 Presets
+> 
+> For downloading of presets and information on how to use them, cosult [this guide](/docs/guides/presets/README.md).
+> 
+> ---
+
 # FullScreenModal
 
 At the moment this component only supports a single video.

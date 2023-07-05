@@ -1,3 +1,11 @@
+> ---
+> 
+> ## 📚 Presets
+> 
+> For downloading of presets and information on how to use them, cosult [this guide](/docs/guides/presets/README.md).
+> 
+> ---
+
 # SectionSplitScreenCarouselSpecial
 
 This section is used on the Feature pages where there is a video and image that are divided into two equally sized blocks.

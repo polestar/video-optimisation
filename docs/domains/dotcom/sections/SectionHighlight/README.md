@@ -1,3 +1,10 @@
+> ---
+> 
+> ## 📚 Presets
+> 
+> For downloading of presets and information on how to use them, cosult [this guide](/docs/guides/presets/README.md).
+> 
+> ---
 ### SectionHighlight
 
 Having the smallest file size possible is recommended. Experiment with different bitrate values and consider shortening the video if a desirable image quality cannot be attained within the file size threshold.

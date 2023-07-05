@@ -1,3 +1,11 @@
+> ---
+> 
+> ## 📚 Presets
+> 
+> For downloading of presets and information on how to use them, cosult [this guide](/docs/guides/presets/README.md).
+> 
+> ---
+
 ### Section Media Gallery
 
 A *Section Media Gallery* can either be used with an [Autoplay video](#autoplay-video) or a [Video player](#video-player).
