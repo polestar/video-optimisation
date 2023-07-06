@@ -1,5 +1,3 @@
-# video-optimization
-
 # Video Specifications
 
 Different apps/domains have different video specifications and requirements at Polestar.
@@ -45,4 +43,6 @@ _Comming soon_
 
 ## MISC
 
-Some presets are generic eonugh that they can be recommened for a wide array of use cases. There are for 16:9 videos with "standard" resoltions of 1080p (HD) 720p and 480p.
+Some presets are generic eonugh that they can be recommened for a wide array of use cases. These are for example 16:9 videos with "standard" resoltions of 1080p (HD) 720p and 480p.
+
+_Comming soon_
