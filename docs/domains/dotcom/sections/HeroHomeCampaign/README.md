@@ -1,9 +1,7 @@
 > ---
-> 
 > ## 📚 Presets
-> 
-> For downloading of presets and information on how to use them, cosult [this guide](/docs/guides/presets/README.md).
-> 
+>
+> For downloading of presets and information on how to use them, consult [this guide](/docs/guides/presets/README.md).
 > ---
 
 # HeroHomeCampaign
@@ -18,8 +16,7 @@ Ensure that the copy passes the accessibility tests by adjusting the video to be
 
 Video is autoplayed and should be exported without an audio track.
 
-![section image](./image.png)
----
+## ![section image](./image.png)
 
 <!--
 HeroHomeCampaign
