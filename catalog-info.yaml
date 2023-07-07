@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: video-optimisation
+  description: Handbrake presets for video optimization of dotcom video assets.
+  team: dotcom
+  annotations:
+    github.com/project-slug: polestar/video-optimisation
+  golar:
+    type: library  
+spec:
+  type: library
+  owner: dotcom
+  lifecycle: experimental
