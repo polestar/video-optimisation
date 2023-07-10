@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Location
+kind: Component
 metadata:
   name: video-optimisation
   description: Handbrake presets for video optimization of dotcom video assets.
