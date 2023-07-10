@@ -1,0 +1,5 @@
+# <https://help.github.com/en/articles/about-code-owners>
+
+## Require specific reviewers to approve pull requests
+
+/.github/ @polestar/dotcom

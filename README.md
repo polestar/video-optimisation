@@ -5,7 +5,7 @@ Bellow is an index of documentaion for the [Polestar website (Dotcom)](#dotcom) 
 
 ## Dotcom
 
-These are all the specificatoins and prests for videos used on Dotcom.
+These are all the specifications and presets for videos used on Dotcom.
 
 1. [FullScreenModal](/docs/domains/dotcom/sections/FullScreenModal/README.md)
 2. [HeroHomeCampaign](/docs/domains/dotcom/sections/HeroHomeCampaign/README.md)
@@ -27,6 +27,7 @@ These are all the specificatoins and prests for videos used on Dotcom.
 8. [SectionSplitScreenCarouselSpecial](/docs/domains/dotcom/sections/SectionSplitScreenCarouselSpecial/README.md)
 9. [SectionVideoCards](/docs/domains/dotcom/sections/SectionVideoCards/README.md)
 10. [SectionVideoContentOverlay](/docs/domains/dotcom/sections/SectionVideoContentOverlay/README.md)
+11. [VideoAutoplay](/docs/domains/dotcom/atoms/VideoAutoplay/README.md)
 
 ---
 
@@ -43,6 +44,6 @@ _Comming soon_
 
 ## MISC
 
-Some presets are generic eonugh that they can be recommened for a wide array of use cases. These are for example 16:9 videos with "standard" resoltions of 1080p (HD) 720p and 480p.
+Some presets are generic eonugh that they can be recommended for a wide array of use cases. These are for example 16:9 videos with "standard" resolutions of 1080p (HD) 720p and 480p.
 
 _Comming soon_

@@ -1,10 +1,9 @@
 > ---
-> 
 > ## 📚 Presets
-> 
-> For downloading of presets and information on how to use them, cosult [this guide](/docs/guides/presets/README.md).
-> 
+>
+> For downloading of presets and information on how to use them, consult [this guide](/docs/guides/presets/README.md).
 > ---
+
 ### SectionHighlight
 
 Having the smallest file size possible is recommended. Experiment with different bitrate values and consider shortening the video if a desirable image quality cannot be attained within the file size threshold.
@@ -15,10 +14,10 @@ Depending on the negative space of the asset, the title can be displayed in one 
 
 Ensure that the copy passes the accessibility tests by adjusting the video to be either dark or light enough in the specific areas.
 
-![Section Highlight](./section-highlight.png)
----
+## ![Section Highlight](./section-highlight.png)
+
 <!--
-ScetionHighlight 
+SectionHighlight
 Storybook: http://localhost:6006/?path=/story/organisms-sectionhighlight--default-story
 -->
 

@@ -27,7 +27,7 @@ A measurement made on the Home Hero video revealed that ~50% of the mobile users
 ![stats](stats.png)
 Time to video finish loading.
 
-*These measurements were made from Web Vitals during November 2022 and only for users that does not have Safari, so in practise that is 50% of all visitors on polestar.com.*
+_These measurements were made from Web Vitals during November 2022 and only for users that does not have Safari, so in practise that is 50% of all visitors on polestar.com._
 
 ---
 
@@ -179,4 +179,4 @@ We did this with the assumption that mp4 was inferior to webm when it comes to f
 
 At the moment webm lacks support in Mobile Safari. When it becomes supported there should be nothing stopping us from start using mp4 and webm interchangeably, and choose the best format on a case by case basis.
 
-For more background on this decision have a look at our conclusion in the comments sections of this ticket: [ PCOM-10473: Can we use only one video format (webm/MP4)? ](https://polestarjira.atlassian.net/browse/PCOM-10473) (link only accibile to Polestar employees).
+For more background on this decision have a look at our conclusion in the comments sections of this ticket: [ PCOM-10473: Can we use only one video format (webm/MP4)? ](https://polestarjira.atlassian.net/browse/PCOM-10473) (link only accessible to Polestar employees).

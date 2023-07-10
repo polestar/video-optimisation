@@ -1,9 +1,7 @@
 > ---
-> 
 > ## ⬇️ Download
-> 
-> The latest version of all avaialbe presets can be [downloaded here](../../../presets/presets-1.0.0.zip).
-> 
+>
+> The latest version of all available presets can be [downloaded here](../../../presets/presets-1.0.0.zip).
 > ---
 
 # Guide to Video Compression Using Presets
@@ -12,7 +10,7 @@ This guide provides instructions for video compression using Handbrake presets. 
 
 ## Understanding Presets
 
-Presets are based on detailed specifications found in the documentation for each video in this repository (for examole [this one](../../domains/dotcom/sections/HeroHomeCampaign/)). They help to ensure proper video scaling, file format (mp4), codec (H.264), and include additional settings for optimal online streaming. The default frames per second (fps) is set to 24.
+Presets are based on detailed specifications found in the documentation for each video in this repository (for example [this one](../../domains/dotcom/sections/HeroHomeCampaign/)). They help to ensure proper video scaling, file format (mp4), codec (H.264), and include additional settings for optimal online streaming. The default frames per second (fps) is set to 24.
 
 You can customize these settings on a case-by-case basis when necessary.
 
