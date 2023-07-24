@@ -9,7 +9,7 @@
 At the moment this component only supports a single video.
 With this in mind we've opted for a resolution of `1920x1080px`, since it gives us the best balance in quality and performance for the different devices.
 
-## ![section image](./image.png)
+## ![section image](./section-FullScreenModal.png)
 
 <!--
 FullScreenModal
