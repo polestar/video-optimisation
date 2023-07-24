@@ -18,4 +18,4 @@ Storybook: http://localhost:6006/?path=/story/organisms-fullscreenmodal--default
 
 | Device  | Aspect ratio | Size        | File size threshold                      | Duration                    | Format | Autoplay | Audio    |
 | ------- | ------------ | ----------- | ---------------------------------------- | --------------------------- | ------ | -------- | -------- |
-| Desktop | 16:9         | 1920x1080px | No more than 15MB per minute of playback | Preferably under 10 seconds | .mp4   | Yes      | Optional |
+| Desktop | 16:9         | 1920x1080px | No more than 15MB per minute of playback | Preferably under 10 seconds | .mp4   | No       | Optional |
