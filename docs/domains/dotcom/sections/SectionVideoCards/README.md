@@ -6,7 +6,7 @@
 
 # SectionVideoCards
 
-![section image](./image.png)
+![section image](./SectionVideoCards.png)
 
 ---
 
