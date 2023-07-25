@@ -12,7 +12,7 @@ A Section Full Width can either be used with an Autoplay video or a Video player
 
 ## Default
 
-## ![default image](./image-default.png)
+## ![default image](./section-full-width-default-video.png)
 
 <!--
 SectionFullWidthVideo
@@ -39,7 +39,7 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionfullwidthvideo--d
 
 ## Compact
 
-## ![default image](./image-compact.png)
+## ![default image](./section-full-width-compact-video.png)
 
 <!--
 SectionFullWidthVideo
