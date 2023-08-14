@@ -4,7 +4,7 @@
 > For downloading of presets and information on how to use them, consult [this guide](/docs/guides/presets/README.md).
 > ---
 
-# SectionFullWidth
+# SectionFullWidthVideo
 
 The purpose of a Section Full Width is to engage and inspire users. It serves as a way to showcase and highlight the key aspects, features, or capabilities in a visually compelling and engaging manner.
 
