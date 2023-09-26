@@ -29,7 +29,9 @@ Storybook: http://localhost:6006/?path=/story/organisms-sectionsplitscreencarous
 
 ## Full width video
 
-These video settings should be used for slides which have a full widht video.
+These video settings should be used for slides which have a full width video.
+
+## ![section image](./section-media-gallery-autoplay.png)
 
 <!--
 SectionSplitScreenCarouselSpecial
