@@ -1,7 +1,7 @@
 > ---
 > ## ⬇️ Download
 >
-> The latest version of all available presets can be [downloaded here](../../../presets/presets-1.0.0.zip).
+> The latest version of all available presets can be [downloaded here](../../../presets/presets-1.2.0.zip).
 > ---
 
 # Guide to Video Compression Using Presets
@@ -24,7 +24,7 @@ Currently, presets do not include the removal of audio. If a video's specificati
 
 ## Downloading and Importing Presets
 
-1. Start by downloading the presets from [this link](../../../presets/presets-1.0.0.zip).
+1. Start by downloading the presets from [this link](../../../presets/presets-1.2.0.zip).
 
    This will download a zip file containing all available presets. Unzip the file and open Handbrake.
 
