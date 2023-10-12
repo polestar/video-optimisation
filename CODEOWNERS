@@ -2,4 +2,4 @@
 
 ## Require specific reviewers to approve pull requests
 
-/.github/ @polestar/dotcom
+* @polestar/dotcom-video-optimisation-code-owners
